@@ -1,5 +1,8 @@
-### Olá Eu sou o Éric António!👋
--Estudante de Engenharia Informatica e Telecomunicações (ISUTC) <br/>
+### Hi i'm Éric António!👋
+🎓 Computer and Telecommunications Engineer at ISUTC.<br/>
+🌱 I'm currently learning about front and back end.<br/>
+🤝 I’m looking to collaborate with other developers.<br/>
+🎯 Goals: Contribute and create Open Source projects.<br/>
 <br/>
 [![Intagram-](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ericivanocanal/?hl=pt)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ericivanocanal)
@@ -26,4 +29,7 @@
 
 ### 
 ![Éric António GitHub stats](https://github-readme-stats.vercel.app/api?username=eric-antonio&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eric-antonio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
