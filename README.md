@@ -30,8 +30,7 @@
 ## <summary><b>Github Stats</b></summary>
 
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=eric-antonio&hide_border=true&count_private=true&show_icons=true&theme=tokyonight" alt="eric-antonio" align = "center"/>
-<img height="180em" 
-src="https://github-readme-stats.vercel.app/api/top-langs?username=eric-antonio&show_icons=true&locale=en&layout=compact&hide_border=true&theme=tokyonight" alt="eric-antonio" align = "center"/></p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=eric-antonio&show_icons=true&locale=en&layout=compact&hide_border=true&theme=tokyonight" alt="eric-antonio" align = "center"/></p>
 
 ## <summary><b>Profile Details</b></summary>
 
