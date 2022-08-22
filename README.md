@@ -4,9 +4,6 @@
 🤝 I’m looking to collaborate with other developers.<br/>
 🎯 Goals: Contribute and create Open Source projects.<br/>
 <br/>
-[![Intagram-](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ericivanocanal/?hl=pt)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ericivanocanal)
-
 ## Programing skills!
 <div style="display: inline_block"> <br/>
   <img  aling="center" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
