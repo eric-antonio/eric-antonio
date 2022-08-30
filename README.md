@@ -5,7 +5,7 @@
 🎯 Goals: Contribute and create Open Source projects.<br/>
 <br/>
 
-## Programing skills!
+## 💡Tech skills!
 
 <div style="display: inline_block"> <br/>
   <img  aling="center" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
@@ -19,7 +19,7 @@
   <img  aling="center" alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 </div>
 
-## IDE used in work!
+## 💻 IDE used in work!
 <div style="display: inline_block"> <br/>
   <img  aling="center" alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
   <img  aling="center" alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
@@ -28,15 +28,16 @@
   <img  aling="center" alt="" src="" />
 </div>
 
-## <summary><b>Github Stats</b></summary>
+## <summary><b>👀Profile Details</b></summary>
+
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eric-antonio&theme=github_dark" alt="eric-antonio-profile-details" align = "center"/></p>
+
+## <summary><b>☀️Github Streaks</b></summary>
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=eric-antonio&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=060822&ring=2A06DD&fire=FFBF29&currStreakNum=FF4499" alt="eric-antonio" /></p>
+
+## <summary><b>🖨️Github Stats</b></summary>
 
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=eric-antonio&hide_border=true&count_private=true&show_icons=true&theme=tokyonight" alt="eric-antonio" align = "center"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=eric-antonio&show_icons=true&locale=en&layout=compact&hide_border=true&theme=tokyonight" alt="eric-antonio" align = "center"/></p>
 
-## <summary><b>Profile Details</b></summary>
-
-<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eric-antonio&theme=github_dark" alt="eric-antonio-profile-details" align = "center"/></p>
-
-## <summary><b>Github Streaks</b></summary>
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=eric-antonio&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=060822&ring=2A06DD&fire=FFBF29&currStreakNum=FF4499" alt="eric-antonio" /></p>
