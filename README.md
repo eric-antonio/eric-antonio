@@ -5,7 +5,7 @@
 🎯 Goals: Contribute and create Open Source projects.<br/>
 <br/>
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%A9ric-ant%C3%B3nio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%A9ric-ant%C3%B3nio/){:target="_blank"}
 
 
 
