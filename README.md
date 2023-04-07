@@ -1,5 +1,4 @@
 ### Hi i'm Éric António!👋
-🎓 Computer and Telecommunications Engineer at ISUTC.<br/>
 🌱 I'm currently learning about front and back end.<br/>
 🤝 I’m looking to collaborate with other developers.<br/>
 🎯 Goals: Contribute and create Open Source projects.<br/>
