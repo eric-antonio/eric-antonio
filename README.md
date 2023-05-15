@@ -1,5 +1,5 @@
 ### Hi i'm Éric António!👋
-🌱 I'm currently learning about front and back end.<br/>
+🌱 I'm currently learning about ReactJs & React Native.<br/>
 🤝 I’m looking to collaborate with other developers.<br/>
 🎯 Goals: Contribute and create Open Source projects.<br/>
 <br/>
