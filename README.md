@@ -42,18 +42,20 @@
   
 </div>
 
+## <summary><b>🖨️Github Stats</b></summary>
 
+<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=eric-antonio&hide_border=true&count_private=true&show_icons=true&theme=tokyonight" alt="eric-antonio" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=eric-antonio&show_icons=true&locale=en&layout=compact&hide_border=true&theme=tokyonight" alt="eric-antonio" align = "center"/></p>
+## <summary><b>☀️Github Streaks</b></summary>
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=eric-antonio&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=060822&ring=2A06DD&fire=FFBF29&currStreakNum=FF4499" alt="eric-antonio" />
+</p>
 
 ## <summary><b>👀Profile Details</b></summary>
 
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eric-antonio&theme=github_dark" alt="eric-antonio-profile-details" align = "center"/></p>
 
-## <summary><b>☀️Github Streaks</b></summary>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=eric-antonio&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=060822&ring=2A06DD&fire=FFBF29&currStreakNum=FF4499" alt="eric-antonio" /></p>
 
-## <summary><b>🖨️Github Stats</b></summary>
 
-<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=eric-antonio&hide_border=true&count_private=true&show_icons=true&theme=tokyonight" alt="eric-antonio" align = "center"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=eric-antonio&show_icons=true&locale=en&layout=compact&hide_border=true&theme=tokyonight" alt="eric-antonio" align = "center"/></p>
 
