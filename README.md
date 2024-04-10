@@ -1,4 +1,5 @@
-### Hi i'm Éric António!👋
+### Hi i'm Éric António👋
+🔭 I’m currently working on Nexus <br/>
 🌱 I'm currently learning about ReactJs & React Native.<br/>
 🤝 I’m looking to collaborate with other developers.<br/>
 🎯 Goals: Contribute and create Open Source projects.<br/>
