@@ -1,8 +1,12 @@
-### Hi i'm Éric António👋
-🔭 I’m currently working on Nexus <br/>
-🌱 I'm currently learning about ReactJs & React Native.<br/>
-🤝 I’m looking to collaborate with other developers.<br/>
-🎯 Goals: Contribute and create Open Source projects.<br/>
+ ## Hello, I’m Éric António 👋
+
+🔭 I’m currently working on an exciting project called **Nexus**.
+
+🌱 I’m on a continuous learning journey and currently, I’m delving into **ReactJs** & **React Native**.
+
+🤝 I’m looking forward to collaborating with other developers on interesting projects. I believe that collaboration is one of the best ways to learn and grow as a developer.
+
+🎯 I have big goals ahead! I’m focused on contributing to and creating open-source projects. I believe that by doing so, I can make a difference in the development community and help other developers like me.
 <br/>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%A9ric-ant%C3%B3nio/)
