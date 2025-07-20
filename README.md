@@ -1,13 +1,17 @@
- ## Hello, I’m Éric António 👋
+## 👋 Hello, I'm Éric Ivan João António
 
-🔭 I’m currently working on an exciting project called **Nexus**.
+🌱 I'm on a continuous learning journey and currently exploring **React.js** and **React Native**.
 
-🌱 I’m on a continuous learning journey and currently, I’m delving into **ReactJs** & **React Native**.
+🤝 I'm eager to collaborate on interesting and impactful projects. I believe that working together is one of the best ways to grow as a developer and build meaningful solutions.
 
-🤝 I’m looking forward to collaborating with other developers on interesting projects. I believe that collaboration is one of the best ways to learn and grow as a developer.
+🎯 I’m highly motivated to contribute to and create **open-source projects**, aiming to support the developer community and share knowledge.
 
-🎯 I have big goals ahead! I’m focused on contributing to and creating open-source projects. I believe that by doing so, I can make a difference in the development community and help other developers like me.
+🚀 I'm currently **open to new challenges and opportunities** where I can apply my skills, learn more, and make a positive impact.
+
+📫 Feel free to reach out or connect!
+
 <br/>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%A9ric-ant%C3%B3nio/)
 
